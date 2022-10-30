@@ -7,9 +7,7 @@
       <a href="https://github.com/otavioaugust1" title="Otavio Augusto"></a>
     </td>
     <td>
-      <p>
-       <b><h2>Otavio Augusto</h2></b>
-      </p>
+      <p><b><h2>Otavio Augusto</h2></b></p>
       <p>
         Consultor Técnico na Ministério da Saúde | SISREG | Faturamento SUS | Regulação SUS | Pesquisador | Estudante de Programação | Estudante em Ciência de dados 
       </p>
@@ -33,9 +31,12 @@
   </tr>  
 </table>
 
-<h2>Sobre mim...</h2>
-<p style='text-align:justify'>Graduado em Administração pela Organização Guaratinguetá de Ensino (2007). Graduando em Análise e Desenvolvimento de Sistemas pela Centro Universitário Estácio Brasília. Pós-graduado em Sistema de Apoio ao Processo Seletivo: Regulação em Saúde no SUS - REG pelo Instituto de Ensino e Pesquisa do Hospital Sírio-Libanês, IEP/HSL (2017), Pós-graduado em Micropolítica da Gestão e Trabalho em Saúde pela Universidade Federal Fluminense, UFF (2018) e atuando há 14 anos na área de gestão a saúde sendo 12 anos na Regulação, Faturamento, Planejamento, Controle e Avaliação em Saúde, atua como Consultor Técnico no Departamento de Regulação Avaliação e Controle - DRAC/SAS/MS</p>  
-<p style='text-align:justify'>Contribui na qualificação e aperfeiçoamento de práticas de regulação, programação, gestão da informação, controle e avaliação em saúde. No apoio no desenvolvimento, a implantação e a manutenção evolutiva do SISREG e da Base Nacional de Dados de Regulação, com vistas ao fortalecimento do processo de regulação do acesso, no âmbito do Sistema Único de Saúde (SUS) na gestão de processos voltados para controle de filas de espera, controle de demandas e controle a produção. Atendimento aos operadores de sistema de regulação quanto a captação de sugestões e críticas para a qualificação permanente do Sistema com ênfase em Saúde Pública, e colaborou na disponibilização das informações do SISREG.</p><br>
+<div style='text-align:justify'>
+  <h2>Sobre mim...</h2>
+    <p>Graduando em Análise e Desenvolvimento de Sistemas pela Centro Universitário Estácio Brasília (2022). Graduado em Administração pela Organização Guaratinguetá de Ensino (2007). Pós-graduado em Sistema de Apoio ao Processo Seletivo: Regulação em Saúde no SUS - REG pelo Instituto de Ensino e Pesquisa do Hospital Sírio-Libanês, IEP/HSL (2017), Pós-graduado em Micropolítica da Gestão e Trabalho em Saúde pela Universidade Federal Fluminense, UFF (2018) e atuando há 14 anos na área de gestão a saúde sendo 12 anos na Regulação, Faturamento, Planejamento, Controle e Avaliação em Saúde, atua como Consultor Técnico no Departamento de Regulação Avaliação e Controle - DRAC/SAS/MS</p>  
+    <p>Contribui na qualificação e aperfeiçoamento de práticas de regulação, programação, gestão da informação, controle e avaliação em saúde. No apoio no desenvolvimento, a implantação e a manutenção evolutiva do SISREG e da Base Nacional de Dados de Regulação, com vistas ao fortalecimento do processo de regulação do acesso, no âmbito do Sistema Único de Saúde (SUS) na gestão de processos voltados para controle de filas de espera, controle de demandas e controle a produção. Atendimento aos operadores de sistema de regulação quanto a captação de sugestões e críticas para a qualificação permanente do Sistema com ênfase em Saúde Pública, e colaborou na disponibilização das informações do SISREG.</p>
+  </div>
+
 
 <h2>Contribuições no GitHub...</h2>
 
@@ -45,17 +46,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugust1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<!--
-**otavioaugust1/otavioaugust1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

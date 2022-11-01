@@ -16,16 +16,18 @@
   <tr>
     <td>
       <td>
-        <a href="https://www.linkedin.com/in/otavioaugust/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px;"style="border-radius: 30%;"/></a>
-        <a href="https://github.com/otavioaugust1">
+        <a href="https://www.linkedin.com/in/otavioaugust/">Linkedin
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px;"style="border-radius: 30%;"/> </a>
+        <a href="https://github.com/otavioaugust1">GitHub
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXjaeoLrxQxqc3US06hi8YnqR9u5laX9VG9-z3Nij047Xs18wyJjvLgi5AqJKNYUek_pk&usqp=CAU" width="50px;" style="border-radius: 30%;"/> </a> 
-        <a href="http://lattes.cnpq.br/1250109562083947">
+        <a href="http://lattes.cnpq.br/1250109562083947">Lattes
         <img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="50px;" > </a>
-        <a href="https://discord.gg/53pXMyKX">
+        <a href="https://discord.gg/53pXMyKX">Discord
         <img src="https://w7.pngwing.com/pngs/448/687/png-transparent-discord-computer-icons-teamspeak-logo-chat-room-logo-miscellaneous-blue-rectangle.png" width="50px;" style="border-radius: 30%;"> </a>
-        <a href="https://web.facebook.com/otavioaugust">
-        <img src="https://cdn.pixabay.com/photo/2021/12/10/16/37/facebook-6860914__340.png" width="50px;" style="border-radius: 30%;"> </a>  
+        <a href="https://web.facebook.com/otavioaugust">FaceBook
+        <img src="https://cdn.pixabay.com/photo/2021/12/10/16/37/facebook-6860914__340.png" width="50px;" style="border-radius: 30%;"> </a>
+        <a href="mailto:otavioaugust@gmail.com">Gmail
+        <img src="https://icon2.cleanpng.com/20180517/paq/kisspng-gmail-google-contacts-g-suite-email-5afdb1d9617628.6558604115265755773992.jpg" width="50px;" style="border-radius: 30%;"> </a>  
       </td>      
     </td>
   </tr>  

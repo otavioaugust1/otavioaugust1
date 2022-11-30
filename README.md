@@ -26,7 +26,7 @@
         <img src="https://w7.pngwing.com/pngs/448/687/png-transparent-discord-computer-icons-teamspeak-logo-chat-room-logo-miscellaneous-blue-rectangle.png" width="50px;" style="border-radius: 30%;"> </a>
         <a href="https://web.facebook.com/otavioaugust">
         <img src="https://cdn.pixabay.com/photo/2021/12/10/16/37/facebook-6860914__340.png" width="50px;" style="border-radius: 30%;"> </a>
-        <a href="https://web.facebook.com/otavioaugust">
+        <a href="https://otavioaugust1.github.io/Meu_portfolio/">
         <img src="https://mystudybay.com.br/assets/img/browser-surf.png" width="50px;" style="border-radius: 30%;"> </a>  
       </td>      
     </td>

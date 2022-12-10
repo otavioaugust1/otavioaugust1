@@ -6,14 +6,15 @@
     <p>Sou de Pindamonhangaba-SP. Moro em Brasilia-DF há cerca de 8 anos e me sinto quase brasiliense, já que criei raízes aqui. Trabalho há 14 anos na área de gestão de saúde, com foco em regulação, assistência, planejamento, controle e avaliação de saúde. Atualmente, sou consultor técnico do Departamento de Regulação Assistencial (DRAC) da Secretaria de Atenção Especializada à Saúde (SAES) no Ministério da Saúde.</p>
     <p>Sou um administrador e tenho pós-graduação em Micropolítica da Gestão e Trabalho em Saúde pela UFF, além de pós-graduação em Apoio ao Processo Seletivo: Regulação em Saúde no SUS como profissão. Sou também pesquisador, cientista de dados e desenvolvedor entusiasta. Recém formado em Análise e Desenvolvimento de Sistemas (ADS), estou me concentrando em Data Science. Estou trabalhando para me tornar um especialista analítico com habilidades técnicas para resolver problemas complexos e a curiosidade de descobrir o que precisa ser resolvido.</p>
     <p><a href="https://otavioaugust1.github.io/Meu_portfolio/" target="_blank">Criei este portfólio </a>para compartilhar meus projetos, desafios e soluções. Adoraria conversar e trocar experiências com você!</p>
-
-<div>
+    
+<div style='text-align: right'>
 <a href="https://otavioaugust1.github.io/Meu_portfolio/" target="_blank"><img src="	https://img.shields.io/badge/MEU PORTFÓLIO-1BB91F?&style=for-the-badge&logo=HTML5&logoColor=white" target="_blank"></a> 
 
 <a href="https://web.facebook.com/otavioaugust" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/@otavioaugust" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.tiktok.com/@otavioaugust" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/otavioaugust/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 <a href="https://twitter.com/0tavioaugust" target="_blank"><img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.kooapp.com/profile/otavioaugust" target="_blank"><img src="	https://img.shields.io/badge/KOO-FFFC00?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
 
@@ -21,7 +22,6 @@
 <a href="https://www.linkedin.com/in/otavioaugust" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/otavioaugust1" target="_blank"><img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <a href="http://lattes.cnpq.br/1250109562083947" target="_blank"><img src="https://img.shields.io/badge/-LATTES-%230077B5?style=for-the-badge&logo=mattermost&logoColor=white" target="_blank"></a>
-
 
 </div>
 

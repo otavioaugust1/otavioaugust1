@@ -8,7 +8,7 @@
     <p><a href="https://otavioaugust1.github.io/Meu_portfolio/" target="_blank">Criei este portfólio </a>para compartilhar meus projetos, desafios e soluções. Adoraria conversar e trocar experiências com você!</p>
 
 <div style='text-align: right'>
-<a href="https://otavioaugust1.github.io/Meu_portfolio/" target="_blank"><img src="	https://img.shields.io/badge/MEU PORTFÓLIO-1BB91F?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank"></a> 
+<a href="https://otavioaugust1.github.io/Meu_portfolio/" target="_blank"><img src="https://img.shields.io/badge/MEU PORTFÓLIO-1BB91F?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank"></a> 
 
 <a href="https://web.facebook.com/otavioaugust" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/@otavioaugust" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -16,11 +16,11 @@
 <a href="https://www.instagram.com/otavioaugust/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <a href="https://twitter.com/0tavioaugust" target="_blank"><img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.kooapp.com/profile/otavioaugust" target="_blank"><img src="	https://img.shields.io/badge/KOO-FFFC00?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
+<a href="https://www.kooapp.com/profile/otavioaugust" target="_blank"><img src="https://img.shields.io/badge/KOO-FFFC00?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
 
 <a href = "mailto:otavioaugust@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/otavioaugust" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://github.com/otavioaugust1" target="_blank"><img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/otavioaugust1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <a href="http://lattes.cnpq.br/1250109562083947" target="_blank"><img src="https://img.shields.io/badge/-LATTES-%230077B5?style=for-the-badge&logo=mattermost&logoColor=white" target="_blank"></a>
 
 </div>

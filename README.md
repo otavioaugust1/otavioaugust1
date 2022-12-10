@@ -1,44 +1,29 @@
 <h1> Olá, eu sou Otavio Augusto!!! 👋</h1>
 
-<table align="center">
-  <tr>
-    <td align="center">
-       <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/45877609?s=96&v=4" width="150px;" alt="">     
-      <a href="https://github.com/otavioaugust1" title="Otavio Augusto"></a>
-    </td>
-    <td>
-      <p><b><h2><a href="https://otavioaugust1.github.io/Meu_portfolio/">Otavio Augusto</a></h2></b></p>
-      <p>
-        Consultor Técnico na Ministério da Saúde | SISREG | Faturamento SUS | Regulação SUS | Pesquisador | Estudante de Programação | Estudante em Ciência de dados 
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <td>
-        <a href="https://www.linkedin.com/in/otavioaugust/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px;"style="border-radius: 30%;"/></a>
-        <a href="https://github.com/otavioaugust1">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXjaeoLrxQxqc3US06hi8YnqR9u5laX9VG9-z3Nij047Xs18wyJjvLgi5AqJKNYUek_pk&usqp=CAU" width="50px;" style="border-radius: 30%;"/> </a> 
-        <a href="http://lattes.cnpq.br/1250109562083947">
-        <img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/aed78269-8ef2-4e2b-9f8a-a687fba40bfd.png" width="50px;" > </a>
-        <a href="https://discord.gg/53pXMyKX">
-        <img src="https://w7.pngwing.com/pngs/448/687/png-transparent-discord-computer-icons-teamspeak-logo-chat-room-logo-miscellaneous-blue-rectangle.png" width="50px;" style="border-radius: 30%;"> </a>
-        <a href="https://web.facebook.com/otavioaugust">
-        <img src="https://cdn.pixabay.com/photo/2021/12/10/16/37/facebook-6860914__340.png" width="50px;" style="border-radius: 30%;"> </a>
-        <a href="https://otavioaugust1.github.io/Meu_portfolio/">
-        <img src="https://mystudybay.com.br/assets/img/browser-surf.png" width="50px;" style="border-radius: 30%;"> </a>  
-      </td>      
-    </td>
-  </tr>  
-</table>
-
 <div style='text-align:justify'>
   <h2>Sobre mim...</h2>
-    <p>Graduando em Análise e Desenvolvimento de Sistemas pela Centro Universitário Estácio Brasília (2022). Graduado em Administração pela Organização Guaratinguetá de Ensino (2007). Pós-graduado em Sistema de Apoio ao Processo Seletivo: Regulação em Saúde no SUS - REG pelo Instituto de Ensino e Pesquisa do Hospital Sírio-Libanês, IEP/HSL (2017), Pós-graduado em Micropolítica da Gestão e Trabalho em Saúde pela Universidade Federal Fluminense, UFF (2018) e atuando há 14 anos na área de gestão a saúde sendo 12 anos na Regulação, Faturamento, Planejamento, Controle e Avaliação em Saúde, atua como Consultor Técnico no Departamento de Regulação Avaliação e Controle - DRAC/SAS/MS</p>  
-    <p>Contribui na qualificação e aperfeiçoamento de práticas de regulação, programação, gestão da informação, controle e avaliação em saúde. No apoio no desenvolvimento, a implantação e a manutenção evolutiva do SISREG e da Base Nacional de Dados de Regulação, com vistas ao fortalecimento do processo de regulação do acesso, no âmbito do Sistema Único de Saúde (SUS) na gestão de processos voltados para controle de filas de espera, controle de demandas e controle a produção. Atendimento aos operadores de sistema de regulação quanto a captação de sugestões e críticas para a qualificação permanente do Sistema com ênfase em Saúde Pública, e colaborou na disponibilização das informações do SISREG.</p>
-  </div>
+    <p>Sou uma pessoa positiva e gosto de fazer as pessoas ao meu redor se sentirem bem. Adoro rir e encontrar coisas boas em cada dia. Não sou do tipo de pessoa que se abate com os problemas. Gosto de encará-los e procurar soluções. Meu objetivo na vida é fazer o que amo e ser feliz, seja no trabalho ou na vida pessoal. Adoro conversar com pessoas interessantes e aprender com elas. Gosto de estar em contato com pessoas que têm muito a ensinar e a compartilhar.</p>
+    <p>Sou de Pindamonhangaba-SP. Moro em Brasilia-DF há cerca de 8 anos e me sinto quase brasiliense, já que criei raízes aqui. Trabalho há 14 anos na área de gestão de saúde, com foco em regulação, assistência, planejamento, controle e avaliação de saúde. Atualmente, sou consultor técnico do Departamento de Regulação Assistencial (DRAC) da Secretaria de Atenção Especializada à Saúde (SAES) no Ministério da Saúde.</p>
+    <p>Sou um administrador e tenho pós-graduação em Micropolítica da Gestão e Trabalho em Saúde pela UFF, além de pós-graduação em Apoio ao Processo Seletivo: Regulação em Saúde no SUS como profissão. Sou também pesquisador, cientista de dados e desenvolvedor entusiasta. Recém formado em Análise e Desenvolvimento de Sistemas (ADS), estou me concentrando em Data Science. Estou trabalhando para me tornar um especialista analítico com habilidades técnicas para resolver problemas complexos e a curiosidade de descobrir o que precisa ser resolvido.</p>
+    <p><a href="https://otavioaugust1.github.io/Meu_portfolio/" target="_blank">Criei este portfólio </a>para compartilhar meus projetos, desafios e soluções. Adoraria conversar e trocar experiências com você!</p>
 
+<div>
+<a href="https://otavioaugust1.github.io/Meu_portfolio/" target="_blank"><img src="	https://img.shields.io/badge/MEU PORTFÓLIO-1BB91F?&style=for-the-badge&logo=HTML5&logoColor=white" target="_blank"></a> 
+
+<a href="https://web.facebook.com/otavioaugust" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@otavioaugust" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.tiktok.com/@otavioaugust" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/otavioaugust/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/0tavioaugust" target="_blank"><img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.kooapp.com/profile/otavioaugust" target="_blank"><img src="	https://img.shields.io/badge/KOO-FFFC00?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
+
+<a href = "mailto:otavioaugust@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/otavioaugust" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/otavioaugust1" target="_blank"><img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="http://lattes.cnpq.br/1250109562083947" target="_blank"><img src="https://img.shields.io/badge/-LATTES-%230077B5?style=for-the-badge&logo=mattermost&logoColor=white" target="_blank"></a>
+
+
+</div>
 
 <h2>Contribuições no GitHub...</h2>
 

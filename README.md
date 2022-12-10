@@ -15,7 +15,7 @@
 <a href="https://www.tiktok.com/@otavioaugust" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/otavioaugust/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<a href="https://twitter.com/0tavioaugust" target="_blank"><img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/0tavioaugust" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.kooapp.com/profile/otavioaugust" target="_blank"><img src="https://img.shields.io/badge/KOO-FFFC00?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
 
 <a href = "mailto:otavioaugust@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,7 +27,7 @@
 
 <h2>Contribuições no GitHub...</h2>
 
-<div align="center">
+<div style='text-align: center'>
   <a href="https://github.com/otavioaugust1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=otavioaugust1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugust1&layout=compact&langs_count=7&theme=dracula"/>

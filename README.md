@@ -1,22 +1,23 @@
 <h1 align="center">👋 Olá! Eu sou o <span style="color:#1BB91F;">Otavio Augusto</span></h1>
 
 <p align="center">
-  <em>Administrador | Consultor Técnico em Saúde | Cientista de Dados em formação | Desenvolvedor Entusiasta | Analista de Sistemas</em>
+  <em>Administrador | Consultor Técnico em Saúde | Cientista de Dados em formação | Desenvolvedor Entusiasta</em>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou uma pessoa positiva e gosto de fazer quem está ao meu redor se sentir bem. Adoro rir, aprender e encontrar o lado bom em cada dia.  
+Sou uma pessoa positiva e gosto de fazer quem está ao meu redor se sentir bem.  
+Adoro rir, aprender e encontrar o lado bom em cada dia.  
 Acredito que problemas existem para serem resolvidos — e gosto de encará-los com criatividade e bom humor.  
 
 Sou de **Pindamonhangaba-SP**, mas moro em **Brasília-DF** há cerca de 10 anos (e já me considero quase brasiliense 🌿).  
-Trabalho há **16 anos na área de gestão em saúde**, com foco em **regulação, planejamento, controle e avaliação**.  
+Atuo há **16 anos na área de gestão em saúde**, com foco em **regulação, planejamento, controle e avaliação**.  
 Atualmente sou **consultor técnico do Departamento de Regulação Assistencial (DRAC)** na **Secretaria de Atenção Especializada à Saúde (SAES)** do **Ministério da Saúde**.
 
-Sou **administrador**, com **pós-graduação em Micropolítica da Gestão e Trabalho em Saúde (UFF)** e em **Regulação em Saúde no SUS como profissão**.  
-Recentemente, me formei em **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente **curso Ciência de Dados** (previsão de formatura em **2026**).  
+Sou **Administrador**, com **pós-graduação em Micropolítica da Gestão e Trabalho em Saúde (UFF)** e **Apoio ao Processo Seletivo: Regulação em Saúde no SUS como profissão**.  
+Sou também **pesquisador, cientista de dados em formação (previsão de formatura em 2026)** e **desenvolvedor entusiasta**.  
 
 Minha meta é unir experiência em gestão pública à ciência de dados para construir soluções inteligentes que melhorem a tomada de decisão e a eficiência em saúde.  
 
@@ -34,7 +35,7 @@ Minha meta é unir experiência em gestão pública à ciência de dados para co
 
 ## 🌐 Meu Portfólio
 
-Acesse meu portfólio completo, com projetos, desafios e soluções:
+Acesse meu portfólio completo com projetos, desafios e soluções:
 
 <p align="center">
   <a href="https://otavioaugust1.github.io/Meu_portfolio/" target="_blank">

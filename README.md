@@ -10,9 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Sou uma pessoa positiva e gosto de fazer quem está ao meu redor se sentir bem.
-Adoro rir, aprender e encontrar o lado bom em cada dia.
-Acredito que problemas existem para serem resolvidos — e gosto de encará-los com criatividade, dados e bom humor. 😄
+Sou um aprendiz silencioso, que prefere resolver do que falar. Não sou “positivo” no sentido tradicional — mas sou curioso, persistente e acredito que até os problemas têm uma lógica a ser decifrada. Se você precisar de alguém que olhe fundo, com dados e calma, estou aqui. E sim, ainda acho que rir de vez em quando ajuda — mesmo que seja em silencio. 😄
 
 Sou de **Pindamonhangaba-SP** 🧡 — *#Pinda de coração* — mas moro em **Brasília-DF** há cerca de 11 anos (e já me considero quase brasiliense 🌿).
 São **17 anos dedicados à gestão em saúde pública**, sempre com foco em fazer o SUS funcionar melhor para quem mais precisa.

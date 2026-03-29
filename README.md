@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1BB91F&height=200&section=header&text=Otavio%20Augusto&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Dados%20%7C%20Sa%C3%BAde%20%7C%20Tecnologia%20%7C%20Impacto%20Social&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1BB91F&center=true&vCenter=true&width=750&lines=Consultor+T%C3%A9cnico+em+Sa%C3%BAde+%F0%9F%8F%A5;Cientista+de+Dados+em+Forma%C3%A7%C3%A3o+%F0%9F%93%8A;Desenvolvedor+Entusiasta+%F0%9F%92%BB;16+anos+em+Gest%C3%A3o+em+Sa%C3%BAde+no+SUS+%F0%9F%8C%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1BB91F&center=true&vCenter=true&width=750&lines=Consultor+T%C3%A9cnico+em+Sa%C3%BAde+%F0%9F%8F%A5;Cientista+de+Dados+em+Forma%C3%A7%C3%A3o+%F0%9F%93%8A;Desenvolvedor+Entusiasta+%F0%9F%92%BB;17+anos+em+Gest%C3%A3o+em+Sa%C3%BAde+no+SUS+%F0%9F%8C%BF)](https://git.io/typing-svg)
 
 </div>
 
@@ -131,8 +131,6 @@ Acesse meu portfólio completo com projetos, desafios e soluções:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0tavioaugust)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/otavioaugust)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@otavioaugust)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@otavioaugust)
-[![Koo](https://img.shields.io/badge/Koo-FFFC00?style=for-the-badge&logo=Twitter&logoColor=black)](https://www.kooapp.com/profile/otavioaugust)
 
 </div>
 

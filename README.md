@@ -96,10 +96,6 @@ Meu trabalho é criar pontes entre a gestão federal e local — **transformando
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otavioaugust1&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otavioaugust1&theme=tokyonight"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=otavioaugust1&theme=tokyonight"/>
 </div>

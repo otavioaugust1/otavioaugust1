@@ -96,16 +96,16 @@ Meu trabalho é criar pontes entre a gestão federal e local — **transformando
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otavioaugust1&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otavioaugust1&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otavioaugust1&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=otavioaugust1&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otavioaugust1&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=otavioaugust1&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaugust1&theme=github_dark&border_radius=10" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otavioaugust1&theme=tokyo-night"/>
 </div>
 
 ---

@@ -96,12 +96,16 @@ Meu trabalho é criar pontes entre a gestão federal e local — **transformando
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavioaugust1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavioaugust1&layout=compact&langs_count=7&theme=dracula&border_radius=10"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otavioaugust1&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaugust1&theme=dracula&border_radius=10" height="180em"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otavioaugust1&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=otavioaugust1&theme=github_dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otavioaugust1&theme=github_dark&border_radius=10" height="180em"/>
 </div>
 
 ---
@@ -148,5 +152,3 @@ Acesse meu portfólio completo com projetos, desafios e soluções:
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1BB91F&height=120&section=footer" width="100%"/>
-
-</div>
